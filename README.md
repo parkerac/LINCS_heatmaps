@@ -1,2 +1,3 @@
 # LINCS_heatmaps
-Scripts for creating heatmaps based on the LINCS database
+This repository contains scripts for creating heatmaps based on the LINCS database.
+
